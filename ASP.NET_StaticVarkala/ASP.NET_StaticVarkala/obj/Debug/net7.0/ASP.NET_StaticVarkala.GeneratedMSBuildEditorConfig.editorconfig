@@ -1,0 +1,17 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ASP.NET_StaticVarkala
+build_property.RootNamespace = ASP.NET_StaticVarkala
+build_property.ProjectDir = C:\Users\user\Desktop\Guaranteed(CodeA)\Back-End\(1) 22.11.2023\ASP.NET_StaticVarkala\ASP.NET_StaticVarkala\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\user\Desktop\Guaranteed(CodeA)\Back-End\(1) 22.11.2023\ASP.NET_StaticVarkala\ASP.NET_StaticVarkala
+build_property._RazorSourceGeneratorDebug = 

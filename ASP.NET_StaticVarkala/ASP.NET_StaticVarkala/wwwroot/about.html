@@ -1,0 +1,968 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11.0.5/swiper-bundle.min.css" />
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+    <link rel="stylesheet" href="./assets/styles/css/about.css">
+    <title>Varkala E-commerce - About</title>
+</head>
+
+<body>
+
+    <header class="header">
+        <div class="header__start">
+            <ul class="header__start__list">
+                <li class="header__start__list__item"><a href="https://www.facebook.com/"><svg
+                            xmlns="http://www.w3.org/2000/svg" height=".85rem" viewBox="0 0 320 512">
+                            <path
+                                d="M279.14 288l14.22-92.66h-88.91v-60.13c0-25.35 12.42-50.06 52.24-50.06h40.42V6.26S260.43 0 225.36 0c-73.22 0-121.08 44.38-121.08 124.72v70.62H22.89V288h81.39v224h100.17V288z" />
+                        </svg></a></li>
+                <li class="header__start__list__item"><a href="https://twitter.com/"><i class="bi bi-twitter"></i></a>
+                </li>
+                <li class="header__start__list__item mx-3"><i class="bi bi-telephone"></i><span>020-800-456-747</span>
+                </li>
+            </ul>
+        </div>
+        <div class="header__center">
+            <p>Free in-store delivery</p>
+        </div>
+        <div class="header__end">
+            <div class="dropdown header__end__dropdown">
+                <button class="btn px-3 dropdown-toggle rotate-arrow header__end__btn" type="button"
+                    id="languageDropdown" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    English
+                </button>
+                <div class="dropdown-menu header__end__dropdown__menu" aria-labelledby="languageDropdown">
+                    <a class="dropdown-item" href="#">French</a>
+                    <a class="dropdown-item" href="#">German</a>
+                </div>
+            </div>
+
+            <div class="dropdown header__end__dropdown">
+                <button class="btn dropdown-toggle rotate-arrow header__end__btn" type="button" id="currencyDropdown"
+                    data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    USD
+                </button>
+                <div class="dropdown-menu header__end__dropdown__menu" aria-labelledby="currencyDropdown">
+                    <a class="dropdown-item" href="#">EUR</a>
+                    <a class="dropdown-item" href="#">GBP</a>
+                </div>
+            </div>
+        </div>
+    </header>
+    <nav class="navbar navbar-expand-lg navbar-light">
+        <a class="navbar-brand" href="./index.html">Varkala</a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown"
+            aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNavDropdown">
+            <ul class="navbar-nav navbar__nav">
+                <li class="nav-item dropdown">
+                    <a class="btn border-0 dropdown-toggle navbar__nav__title" href="#" role="button"
+                        data-bs-toggle="dropdown" aria-expanded="false">
+                        Home
+                    </a>
+
+                    <ul class="dropdown-menu border-0 navbar__nav__home__icons" style="min-width: 200px;">
+                        <li><a class="dropdown-item" href="./index.html">Home 1 - Fashion</a></li>
+                        <li><a class="dropdown-item" href="./index.html">Home 2 - Fashion</a></li>
+                        <li><a class="dropdown-item" href="./index.html">Home 3 - Design <span
+                                    class="badge bg-light text-warning-emphasis ms-3">New</span></a></li>
+                        <li><a class="dropdown-item" href="./index.html">Home 4 - Design <span
+                                    class="badge bg-light text-warning-emphasis ms-3">New</span></a></li>
+                    </ul>
+                </li>
+                <li class="nav-item dropdown">
+                    <a class="btn border-0 dropdown-toggle navbar__nav__title" href="#" role="button"
+                        data-bs-toggle="dropdown" aria-expanded="false">
+                        Shop
+                    </a>
+
+                    <ul class="dropdown-menu border-0" style="min-width: 700px; margin-top: 20px; margin-right: 50px;">
+                        <div class="row">
+                            <div class="col-4">
+                                <ul class="list-unstyled navbar__nav__shop__icons">
+                                    <li>
+                                        <h6 class="mx-3">Shop pages</h6>
+                                    </li>
+                                    <li><a class="dropdown-item" href="#">Full width </a></li>
+                                    <li><a class="dropdown-item" href="#">Full width with category menu </a></li>
+                                    <li><a class="dropdown-item" href="#">Full width with big products </a></li>
+                                    <li><a class="dropdown-item" href="#">Fixed width </a></li>
+                                    <li><a class="dropdown-item" href="#">Fixed width & sidebar </a></li>
+                                    <li><a class="dropdown-item" href="#">Fixed width & masonry layout <span
+                                                class="badge bg-light text-warning-emphasis">New</span></a></li>
+                                    <li><a class="dropdown-item" href="#">Subcategories </a></li>
+                                </ul>
+                            </div>
+
+                            <div class="col-4">
+                                <ul class="list-unstyled navbar__nav__shop__icons">
+                                    <li>
+                                        <h6 class="mx-3">Product pages</h6>
+                                    </li>
+                                    <li><a class="dropdown-item" href="#">Product with sticky info </a></li>
+                                    <li><a class="dropdown-item" href="#">Product with background </a></li>
+                                    <li><a class="dropdown-item" href="#">Product standard </a></li>
+                                </ul>
+                            </div>
+
+                            <div class="col-4">
+                                <div class="kyle-loftus">
+                                </div>
+                            </div>
+                        </div>
+                    </ul>
+                </li>
+
+                <li class="nav-item dropdown">
+                    <a class="btn border-0 dropdown-toggle navbar__nav__title" href="#" role="button"
+                        data-bs-toggle="dropdown" aria-expanded="false">
+                        Icons
+                    </a>
+
+                    <ul class="dropdown-menu border-0 navbar__nav__icon__icons" style="min-width: 660px;">
+                        <div class="row mt-4">
+                            <div class="col-2 d-flex flex-column justify-content-center align-items-center">
+                                <i class="fa-solid fa-spa"></i>
+                                <h6>Trousers</h6>
+                            </div>
+                            <div class="col-2 d-flex flex-column justify-content-center align-items-center">
+                                <i class="fa-solid fa-shirt"></i>
+                                <h6>Jackets</h6>
+                            </div>
+                            <div class="col-2 d-flex flex-column justify-content-center align-items-center">
+                                <i class="fa-solid fa-shirt"></i>
+                                <h6>T-Shirts</h6>
+                            </div>
+                            <div class="col-2 d-flex flex-column justify-content-center align-items-center">
+                                <i class="fa-solid fa-shirt"></i>
+                                <h6>Shirts</h6>
+                            </div>
+                            <div class="col-2 d-flex flex-column justify-content-center align-items-center">
+                                <i class="fa-solid fa-spa"></i>
+                                <h6>Pullovers</h6>
+                            </div>
+                            <div class="col-2 d-flex flex-column justify-content-center align-items-center">
+                                <i class="fa-solid fa-shirt"></i>
+                                <h6>Scarfs</h6>
+                            </div>
+                        </div>
+                        <div class="row mt-2 mb-5">
+                            <div class="col-2 d-flex flex-column justify-content-center align-items-center">
+                                <i class="bi bi-mortarboard"></i>
+                                <h6>Shorts</h6>
+                            </div>
+                            <div class="col-2 d-flex flex-column justify-content-center align-items-center">
+                                <i class="bi bi-backpack4"></i>
+                                <h6>Underwear</h6>
+                            </div>
+                            <div class="col-2 d-flex flex-column justify-content-center align-items-center">
+                                <i class="bi bi-watch"></i>
+                                <h6>Watches</h6>
+                            </div>
+                            <div class="col-2 d-flex flex-column justify-content-center align-items-center">
+                                <i class="bi bi-backpack4"></i>
+                                <h6>Bags</h6>
+                            </div>
+                            <div class="col-2 d-flex flex-column justify-content-center align-items-center">
+                                <i class="bi bi-mortarboard"></i>
+                                <h6>Caps</h6>
+                            </div>
+                            <div class="col-2 d-flex flex-column justify-content-center align-items-center">
+                                <i class="bi bi-watch"></i>
+                                <h6>Accessories</h6>
+                            </div>
+                        </div>
+                        <div class="navbar__nav__icon__icons__text mt-2">
+                            <p>Don't miss our biggest sales this year. Use the code "SUMMER35" at checkout until Jun.
+                                15! </p>
+                        </div>
+                    </ul>
+                </li>
+                <li class="nav-item dropdown">
+                    <a class="btn border-0 dropdown-toggle navbar__nav__title" href="#" role="button"
+                        data-bs-toggle="dropdown" aria-expanded="false">
+                        Pages
+                    </a>
+
+                    <div class="dropdown-menu navbar__nav__page__icons">
+                        <div class="row">
+                            <div class="col-4 navbar__nav__page__icons__img">
+                                <img src="./assets/images/blog/blog1.jpg" alt="">
+                                <div class="col col-4 navbar__nav__page__icons__img__content">
+                                    <div class="col-4 navbar__nav__page__icons__img__content__list">
+                                        <h5>Homepage</h5>
+                                        <ul>
+                                            <li><a href="./index.html">Home 1 - Fashion</a></li>
+                                            <li><a href="./index.html">Home 2 - Fashion</a></li>
+                                            <li><a href="./index.html">Home 3 - Design <span
+                                                        class="badge bg-light text-warning-emphasis ms-3">New</span></a>
+                                            </li>
+                                            <li><a href="./index.html">Home 4 - Design <span
+                                                        class="badge bg-light text-warning-emphasis ms-3">New</span></a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                    <div class="col-4 navbar__nav__page__icons__img__content__list">
+                                        <h5>Category</h5>
+                                        <ul>
+                                            <li><a href="#">Full width </a></li>
+                                            <li><a href="#">Full width with category menu </a></li>
+                                            <li><a href="#">Full width with big products </a></li>
+                                            <li><a href="#">Fixed width </a></li>
+                                            <li><a href="#">Fixed width & sidebar </a></li>
+                                            <li><a href="#">Fixed width & masonry layout <span
+                                                        class="badge bg-light text-warning-emphasis">New</span></a></li>
+                                            <li><a href="#">Subcategories </a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-4 navbar__nav__page__icons__img">
+                                <img src="./assets/images/blog/blog3.jpg" alt="">
+                                <div class="col col-4 navbar__nav__page__icons__img__content">
+                                    <div class="col-4 navbar__nav__page__icons__img__content__list">
+                                        <h5>Order process</h5>
+                                        <ul>
+                                            <li><a href="#">Shopping cart</a></li>
+                                            <li><a href="#">Checkout - Five steps <span
+                                                        class="badge bg-light text-warning-emphasis ms-3">New</span></a>
+                                            </li>
+                                            <li><a href="#">Checkout - Single-page</a></li>
+                                            <li><a href="#">Checkout - confirmed</a></li>
+                                            <li><a href="#">Wishlist</a></li>
+                                        </ul>
+                                    </div>
+                                    <div class="col-4 navbar__nav__page__icons__img__content__list">
+                                        <h5>Product</h5>
+                                        <ul>
+                                            <li><a href="#">Product with sticky info</a></li>
+                                            <li><a href="#">Product with background</a></li>
+                                            <li><a href="#">Product standard</a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-4 navbar__nav__page__icons__img">
+                                <img src="./assets/images/blog/blog2.jpg" alt="">
+                                <div class="col col-4 navbar__nav__page__icons__img__content">
+                                    <div class="col-4 navbar__nav__page__icons__img__content__list">
+                                        <h5>Blog</h5>
+                                        <ul>
+                                            <li><a href="./blog.html">Blog</a></li>
+                                            <li><a href="./blog.html">Blog - Masonry</a></li>
+                                            <li><a href="#">Post</a></li>
+                                        </ul>
+                                    </div>
+                                    <div class="col-4 navbar__nav__page__icons__img__content__list">
+                                        <h5>Pages</h5>
+                                        <ul>
+                                            <li><a href="./about.html">About - Company <span
+                                                        class="badge bg-light text-warning-emphasis">New</span></a></li>
+                                            <li><a href="./about.html">About v.2 - Person <span
+                                                        class="badge bg-light text-warning-emphasis">New</span></a></li>
+                                            <li><a href="#">F.A.Q. <span
+                                                        class="badge bg-light text-warning-emphasis">New</span></a></li>
+                                            <li><a href="./contact.html">Contact</a></li>
+                                            <li><a href="#">Privacy policy <span
+                                                        class="badge bg-light text-warning-emphasis">New</span></a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-4 navbar__nav__page__icons__img">
+                                <img src="./assets/images/blog/blog5.jpg" alt="">
+                                <div class="col col-4 navbar__nav__page__icons__img__content">
+                                    <div class="col-4 navbar__nav__page__icons__img__content__list">
+                                        <h5>Customer</h5>
+                                        <ul>
+                                            <li><a href="./about.html">Login/sign up <span
+                                                        class="badge bg-light text-warning-emphasis">New</span></a></li>
+                                            <li><a href="./about.html">Orders <span
+                                                        class="badge bg-light text-warning-emphasis">New</span></a></li>
+                                            <li><a href="#">Order detail <span
+                                                        class="badge bg-light text-warning-emphasis">New</span></a></li>
+                                            <li><a href="#">Order tracking <span
+                                                        class="badge bg-light text-warning-emphasis">New</span></a></li>
+                                            <li><a href="#">Addresses <span
+                                                        class="badge bg-light text-warning-emphasis">New</span></a></li>
+                                            <li><a href="#">Profile <span
+                                                        class="badge bg-light text-warning-emphasis">New</span></a></li>
+                                            <li><a href="#">Wishlist <span
+                                                        class="badge bg-light text-warning-emphasis">New</span></a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+
+                        </div>
+                        <div class="row">
+
+                        </div>
+                    </div>
+                </li>
+                <li class="nav-item dropdown">
+                    <a class="btn border-0 dropdown-toggle navbar__nav__title" href="#" role="button"
+                        data-bs-toggle="dropdown" aria-expanded="false">
+                        Docs
+                    </a>
+
+                    <ul class="dropdown-menu border-0 navbar__nav__doc__icons">
+                        <li><a class="dropdown-item" href="#">Introduction </a></li>
+                        <li><a class="dropdown-item" href="#">Directory structure </a></li>
+                        <li><a class="dropdown-item" href="#">Gulp </a></li>
+                        <li><a class="dropdown-item" href="#">Customizing CSS </a></li>
+                        <li><a class="dropdown-item" href="#">Credits </a></li>
+                        <li><a class="dropdown-item" href="#">Changelog </a></li>
+                        <div class="dropdown-divider"></div>
+                        <li><a class="dropdown-item" href="#">Bootstrap </a></li>
+                        <li><a class="dropdown-item" href="#">Theme </a></li>
+                    </ul>
+                </li>
+            </ul>
+        </div>
+        <div class="navbar__form">
+            <form class="navbar__form__input">
+                <input type="text" placeholder="Search">
+                <i class="bi bi-search"></i>
+            </form>
+            <div class="navbar__form__icons">
+                <div class="responsive__icons">
+                    <i class="bi bi-person" id="person-icon"></i>
+                    <div class="navbar__form__icons__wl">
+                        <i class="bi bi-heart"></i>
+                        <span>0</span>
+                    </div>
+                    <div class="navbar__form__icons__bag" id="openModalBtn">
+                        <i class="bi bi-bag-check"></i>
+                        <span id="cart-count">0</span>
+                    </div>
+                </div>
+                <i class="fa-solid fa-bars-staggered" id="openSidebar"></i>
+            </div>
+        </div>
+    </nav>
+
+    <main>
+        <section class="section__top">
+            <div class="container">
+                <div class="row">
+                    <div class="section__top__item d-flex">
+                        <div class="col-xl-2">
+                            <div class="horizontal-line"></div>
+                        </div>
+                        <div class="col-xl-6">
+                            <h6 class="text-primary text-uppercase letter-spacing-5 mb-3"> About us</h6>
+                            <h1 class="display-3 mb-5">We are Varkala</h1>
+                            <p class="text-lg text-muted">One morning, when Gregor Samsa woke from troubled dreams, he
+                                found
+                                himself transformed in his bed into a horrible vermin. He lay on his armour-like back,
+                                and
+                                if he lifted his head a little he could see his brown belly, slightly domed and divided
+                                by
+                                arches into stiff sections</p>
+                        </div>
+                    </div>
+                    <div class="section__top__item d-flex">
+                        <div class="col-xl-2">
+                            <div class="horizontal-line"></div>
+                        </div>
+                        <div class="col-xl-8">
+                            <h6 class="text-primary text-uppercase letter-spacing-5 mb-3">THE OLD TIMES</h6>
+                            <h1 class="display-3 mb-5">History of Varkala</h1>
+                        </div>
+                    </div>
+                    <div class="row mb-5 mt-5 section__top__main">
+                        <div class="col-sm-4"><img class="img-fluid" src="./assets/images/about/about1.jpg" alt="">
+                        </div>
+                        <div class="col-sm-8 col-md-6 offset-md-1 d-flex align-items-center">
+                            <div>
+                                <h6 class="text-uppercase text-muted letter-spacing-5 mb-1">Humble beginnings</h6>
+                                <h2 class="mb-4">We started as little</h2>
+                                <p class="text-muted">The bedding was hardly able to cover it and seemed ready to slide
+                                    off
+                                    any moment. His many legs, pitifully thin compared with the size of the rest of him,
+                                    waved about helplessly as he looked. "What's happened to me?" he thought. It wasn't
+                                    a
+                                    dream.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row mb-5 section__top__main">
+                        <div class="col-sm-8 col-md-7 col-lg-6 d-flex align-items-center">
+                            <div>
+                                <h6 class="text-uppercase text-muted mb-1">Varkala today</h6>
+                                <h2 class="mb-4">And then we grew a bit</h2>
+                                <p class="text-muted">The bedding was hardly able to cover it and seemed ready to slide
+                                    off
+                                    any moment. His many legs, pitifully thin compared with the size of the rest of him,
+                                    waved about helplessly as he looked. "What's happened to me?" he thought. It wasn't
+                                    a
+                                    dream.</p>
+                            </div>
+                        </div>
+                        <div class="col-sm-4 col-md-5 offset-lg-1"><img class="img-fluid"
+                                src="./assets/images/about/about2.jpg" alt=""></div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="section__milestones py-6 bg-gray-100" data-aos="zoom-in-up" data-aos-once="true">
+            <div class="container">
+                <div class="row">
+                    <div class="section__milestones__content d-flex">
+                        <div class="col-lg-5 col-md-12">
+                            <h2 class="mb-4">Varkala's Milestones</h2>
+                            <p class="text-lg text-muted mb-5 mb-lg-0">One morning, when Gregor Samsa woke from troubled
+                                dreams,
+                                he found himself transformed in his bed into a horrible vermin. He lay on his
+                                armour-like back,
+                                and if he lifted his head a little he could see his brown belly, slightly domed and
+                                divided by
+                                arches into stiff sections </p>
+                        </div>
+                        <div class="col-lg-6 col-md-12">
+                            <div class="row">
+                                <div class="col-sm-6 mb-4">
+                                    <h4>1995</h4>
+                                    <p class="text-muted">One morning, when Gregor Samsa woke from troubled dreams, he
+                                        found
+                                        himself transformed in his bed into a horrible vermin </p>
+                                </div>
+                                <div class="col-sm-6 mb-4">
+                                    <h4>2000</h4>
+                                    <p class="text-muted">The bedding was hardly able to cover it and seemed ready to
+                                        slide off
+                                        any moment. His many legs, pitifully thin compared </p>
+                                </div>
+                                <div class="col-sm-6 mb-4">
+                                    <h4>2010</h4>
+                                    <p class="text-muted">His room, a proper human room although a little too small, lay
+                                        peacefully between its four familiar walls. A collection </p>
+                                </div>
+                                <div class="col-sm-6 mb-4">
+                                    <h4>2018</h4>
+                                    <p class="text-muted">Samsa was a travelling salesman - and above it there hung a
+                                        picture
+                                        that he had recently cut out of an illustrated magaz </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="section__testimonial" data-aos="zoom-in-up" data-aos-once="true">
+            <div class="container">
+                <div class="row">
+                    <div class="d-flex align-items-center section__testimonial__item">
+                        <div class="col-lg-5 d-flex justify-content-center">
+                            <img class="img-fluid rounded-circle" src="./assets/images/about/avatar-0.jpg"
+                                alt="testimonial image">
+                        </div>
+                        <div class="col-lg-6">
+                            <div>
+                                <blockquote class="blockquote-icon mb-5">
+                                    <p class="mb-4">
+                                        Samsa was a travelling salesman - and above it there hung a picture that he had
+                                        recently cut out of an illustrated magazine and housed in a nice, gilded frame.
+                                    </p>
+                                    <h6 class="text-uppercase text-primary">— Frankie Kafka, Founder</h6>
+                                </blockquote>
+                                <p class="text-muted">Samsa was a travelling salesman - and above it there hung a
+                                    picture that he had recently cut out of an illustrated magazine and housed in a
+                                    nice, gilded frame. </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="section__team" data-aos="zoom-in-up" data-aos-once="true">
+            <div class="container">
+                <div class="row">
+                    <div class="section__team__member">
+                        <div class="col-xl-2">
+                            <div class="horizontal-line"></div>
+                        </div>
+                        <div class="col-xl-10">
+                            <h6 class="text-primary">OUR TEAM</h6>
+                            <h1>People</h1>
+                            <p class="text-muted">He must have tried it a hundred times, shut his eyes so that he
+                                wouldn't have to look at the floundering legs,
+                                and only stopped when he began to feel a mild, dull pain there that he had never felt
+                                before.</p>
+
+
+                            <div class="d-flex flex-wrap section__team__member__info">
+                                <div class="col-6 col-md-3 text-center mb-4">
+                                    <img class="img-fluid rounded-circle" src="./assets/images/about/avatar-0.jpg"
+                                        alt="Avatar0">
+                                    <h4>Frankie Kafka</h4>
+                                    <p class="text-sm text-muted">CEO & Founder </p>
+                                </div>
+                                <div class="col-6 col-md-3 text-center mb-4">
+                                    <img class="img-fluid rounded-circle" src="./assets/images/about/avatar-1.jpg"
+                                        alt="Avatar1">
+                                    <h4>Brittney Day</h4>
+                                    <p class="text-sm text-muted">CTO</p>
+                                </div>
+                                <div class="col-6 col-md-3 text-center mb-4">
+                                    <img class="img-fluid rounded-circle" src="./assets/images/about/avatar-2.jpg"
+                                        alt="Avatar2">
+                                    <h4>Kim Cervantes</h4>
+                                    <p class="text-sm text-muted">Marketing</p>
+                                </div>
+                                <div class="col-6 col-md-3 text-center mb-4">
+                                    <img class="img-fluid rounded-circle" src="./assets/images/about/avatar-3.jpg"
+                                        alt="Avatar3">
+                                    <h4>Massey Armstrong</h4>
+                                    <p class="text-sm text-muted">Customer care</p>
+                                </div>
+
+                                <div class="col-6 col-md-3 text-center mb-4">
+                                    <img class="img-fluid rounded-circle" src="./assets/images/about/avatar-4.jpg"
+                                        alt="Avatar4">
+                                    <h4>B.J. Petersen</h4>
+                                    <p class="text-sm text-muted">E-commerce</p>
+                                </div>
+                                <div class="col-6 col-md-3 text-center mb-4">
+                                    <img class="img-fluid rounded-circle" src="./assets/images/about/avatar-5.jpg"
+                                        alt="Avatar5">
+                                    <h4>Mayra Holman</h4>
+                                    <p class="text-sm text-muted">Customer care</p>
+                                </div>
+                                <div class="col-6 col-md-3 text-center mb-4">
+                                    <img class="img-fluid rounded-circle" src="./assets/images/about/avatar-6.jpg"
+                                        alt="Avatar6">
+                                    <h4>Gabriel Fisher</h4>
+                                    <p class="text-sm text-muted">Customer care</p>
+                                </div>
+                                <div class="col-6 col-md-3 text-center mb-4">
+                                    <img class="img-fluid rounded-circle" src="./assets/images/about/avatar-7.jpg"
+                                        alt="Avatar7">
+                                    <h4>Jose Holman</h4>
+                                    <p class="text-sm text-muted">Customer care</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+
+        <section class="section__swiper" data-aos="zoom-in-up" data-aos-once="true">
+            <div class="container">
+                <div class="row">
+                    <div class="section__swiper__content">
+                        <div id="swiper-brand" class="swiper">
+                            <div class="swiper-wrapper">
+                                <div class="swiper-slide">
+                                    <div class="card">
+                                        <div class="card__image"><img src="./assets/images/about/brand-1.svg"
+                                                alt="Brand1">
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="card">
+                                        <div class="card__image"><img src="./assets/images/about/brand-2.svg"
+                                                alt="Brand2">
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="card">
+                                        <div class="card__image"><img src="./assets/images/about/brand-3.svg"
+                                                alt="Brand3">
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="card">
+                                        <div class="card__image"><img src="./assets/images/about/brand-4.svg"
+                                                alt="Brand4">
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="card">
+                                        <div class="card__image"><img src="./assets/images/about/brand-5.svg"
+                                                alt="Brand5">
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="swiper-slide">
+                                    <div class="card">
+                                        <div class="card__image"><img src="./assets/images/about/brand-6.svg" alt="">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-pagination"></div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="section__text" data-aos="zoom-in-up" data-aos-once="true">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-10 mx-auto text-center section__text__info">
+                        <h2>
+                            At Varkala, we want the right choice to be as easy as putting on a great T-shirt
+                        </h2>
+                    </div>
+                    <div class="col-lg-5 offset-lg-1">
+                        <p class="text-muted text-sm">
+                            One morning, when Gregor Samsa woke from troubled dreams, he found himself transformed in
+                            his bed into a horrible vermin. He lay on his armour-like back, and if he lifted his head a
+                            little he could see his brown belly,
+                            slightly domed and divided by arches into stiff sections
+                        </p>
+                    </div>
+                    <div class="col-lg-5">
+                        <p class="text-muted text-sm">
+                            The bedding was hardly able to cover it and seemed ready to slide off any moment. His many
+                            legs, pitifully thin compared with the size of the rest of him, waved about helplessly as he
+                            looked. "What's happened to me?" he thought. It wasn't a dream.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="section__cart d-none">
+            <div class="container mt-2">
+                <div class="row">
+                    <div class="col-12 section__cart__title">
+                        <h2>New Arrivals</h2>
+                        <p class="text-muted mb-5">One morning, when Gregor Samsa woke from troubled dreams, he found
+                            himself transformed in his bed into a horrible vermin. He lay on his armour-like back, and
+                            if he lifted his head a little he could see his brown belly, slightly domed and divided by
+                            arches into stiff sections</p>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-6 section__cart__list">
+                        <ul>
+                            <li><a href="#" style="color: #212529;">All Products</a></li>
+                            <li><a href="#">Chairs </a></li>
+                            <li><a href="#">Books</a></li>
+                            <li><a href="#">Clothes</a></li>
+                            <li><a href="#">Accessories</a></li>
+                        </ul>
+                    </div>
+                    <div class="col-6 section__cart__list2">
+                        <a href="#">All products</a>
+                    </div>
+                </div>
+                <div class="row position-relative all-columns" id="product-container">
+
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer class="footer" data-aos="zoom-in-up" data-aos-once="true">
+        <div class="footer__trans">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-3 col-sm-6 footer__trans__column">
+                        <i class="fa-solid fa-truck"></i>
+                        <div class="footer__trans__column__text">
+                            <h6>Free shipping & return</h6>
+                            <p class="text-muted">Free Shipping over $300</p>
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-sm-6 footer__trans__column">
+                        <i class="fa-solid fa-coins"></i>
+                        <div class="footer__trans__column__text">
+                            <h6>Money back guarantee</h6>
+                            <p class="text-muted">30 Days Money Back Guarantee</p>
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-sm-6 footer__trans__column">
+                        <i class="fa-solid fa-percent"></i>
+                        <div class="footer__trans__column__text">
+                            <h6>Best prices</h6>
+                            <p class="text-muted">Always the best prices</p>
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-sm-6 footer__trans__column">
+                        <i class="fa-solid fa-headset"></i>
+                        <div class="footer__trans__column__text">
+                            <h6>020-800-456-747</h6>
+                            <p class="text-muted">24/7 Available Support</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="footer__company mt-5">
+            <div class="container">
+                <div class="row justify-content-between">
+                    <div class="col-md-4 col-sm-12 footer__company__column">
+                        <h6 class="ms-5">Be in touch</h6>
+                        <p class="ms-5"> Lorem ipsum dolor sit amet, consectetur adipisicing elit. At itaque temporibus.
+                        </p>
+                        <form class="ms-5">
+                            <input type="text" placeholder="Your Email Address">
+                            <i class="bi bi-envelope"></i>
+                        </form>
+                    </div>
+                    <div class="col-md-2 col-sm-12 footer__company__column">
+                        <h6 class="ms-3 accordion-header" onclick="toggleAccordion(this)">Shop</h6>
+                        <ul class="ms-3 accordion-content">
+                            <li><a href="#" class="text-muted">For Women</a></li>
+                            <li><a href="#" class="text-muted">For Men</a></li>
+                            <li><a href="#" class="text-muted">Stores</a></li>
+                            <li><a href="#" class="text-muted">Our Blog</a></li>
+                            <li><a href="#" class="text-muted">Shop</a></li>
+                        </ul>
+                    </div>
+
+                    <div class="col-md-2 col-sm-12 footer__company__column">
+                        <h6 class="accordion-header" onclick="toggleAccordion(this)">Company</h6>
+                        <ul class="accordion-content">
+                            <li><a href="#" class="text-muted">Login</a></li>
+                            <li><a href="#" class="text-muted">Register</a></li>
+                            <li><a href="#" class="text-muted">Wishlist</a></li>
+                            <li><a href="#" class="text-muted">Our Products</a></li>
+                            <li><a href="#" class="text-muted">Checkouts</a></li>
+                        </ul>
+                    </div>
+                    <div class="col-md-2 col-sm-12 footer__company__column">
+                        <h6 class="accordion-header" onclick="toggleAccordion(this)">Your account</h6>
+                        <ul class="accordion-content">
+                            <li><a href="#" class="text-muted">Login</a></li>
+                            <li><a href="#" class="text-muted">Register</a></li>
+                            <li><a href="#" class="text-muted">Wishlist</a></li>
+                            <li><a href="#" class="text-muted">Our Products</a></li>
+                            <li><a href="#" class="text-muted">Checkouts</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="footer__bottom">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-6 footer__bottom__left">
+                        <p class="ms-4">© 2020 Your company. All rights reserved.</p>
+                    </div>
+                    <div class="col-md-6 footer__bottom__right">
+                        <ul>
+                            <li><a href="#">Terms & Conditions </a></li>
+                            <li><a href="#">Privacy & cookies </a></li>
+                            <li><a href="#">Accessibility </a></li>
+                            <li><a href="#">Customer Data Promise </a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Login and register modal id=person-icon -->
+    <div class="modal modal-log-reg" id="loginRegisterModal" tabindex="-1" role="dialog"
+        aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+
+                    <!-- Tab links -->
+                    <div>
+                        <button class="btn tablink fs-4 border-0"
+                            onclick="openTab(event, 'loginContent')">Login</button>
+                        <button class="btn tablink fs-4 border-0 ms-2"
+                            onclick="openTab(event, 'registerContent')">Register</button>
+                    </div>
+
+                    <button type="button" class="close text-muted border-0" data-dismiss="modal" aria-label="Close">
+                        <i class="bi bi-x-lg" aria-hidden="true"></i>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <!-- Content for login -->
+                    <div id="loginContent" class="tabcontent">
+                        <form>
+                            <div class="form-group">
+                                <label class="form-label fw-bold" for="email">Email</label>
+                                <input class="form-control" type="email" id="email">
+                            </div>
+                            <div class="form-group mt-3">
+                                <div class="row">
+                                    <div class="col">
+                                        <label class="form-label fw-bold" for="psw">Password</label><br>
+                                    </div>
+                                    <div class="col-auto">
+                                        <a href="#" class="form-text small">Forgot password?</a>
+                                    </div>
+                                </div>
+                                <input class="form-control" name="loginPassword" id="psw" placeholder="Password"
+                                    type="password" required="" data-msg="Please enter your password">
+                            </div>
+                            <div class="form-group mt-3">
+                                <div class="custom-control custom-checkbox">
+                                    <input class="custom-control-input" id="loginRemember" type="checkbox">
+                                    <label class="custom-control-label text-muted" for="loginRemember"> <span
+                                            class="text-sm">Remember me for 30 days</span></label>
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <button class="btn btn-block btn-outline-dark w-100 mt-3" type="submit"><i
+                                        class="fa fa-sign-in-alt me-2"></i> Log in</button>
+                            </div>
+                        </form>
+                        <hr class="my-3 hr-text letter-spacing-2" data-content="OR">
+                        <div class="text-center">
+                            <button class="btn btn1" data-toggle="tooltip" title=""><i
+                                    class="fa-fw fa-facebook-f fab"></i></button>
+                            <button class="btn btn2" data-toggle="tooltip" title=""><i
+                                    class="fa-fw fa-google fab"></i></button>
+                        </div>
+                    </div>
+                    <!-- Content for register -->
+                    <div id="registerContent" class="tabcontent" style="display: none;">
+                        <form>
+                            <p class="text-muted text-sm">The bedding was hardly able to cover it and seemed ready
+                                to slide off any moment. His many legs, pit.</p>
+                            <div class="form-group">
+                                <label class="form-label mt-2" for="registerName">Name</label>
+                                <input class="form-control" id="registerName" type="text">
+                            </div>
+                            <div class="form-group">
+                                <label class="form-label mt-2" for="registerEmail">Email</label>
+                                <input class="form-control" id="registerEmail" type="text">
+                            </div>
+                            <div class="form-group">
+                                <label class="form-label mt-2" for="registerPassword">Password</label>
+                                <input class="form-control" id="registerPassword" type="password">
+                            </div>
+                            <div class="form-group text-center">
+                                <button class="btn btn-block btn-outline-dark w-100 mt-3" type="submit"><i
+                                        class="far fa-user me-2"></i>Register </button>
+                            </div>
+                        </form>
+                        <hr class="my-3 hr-text letter-spacing-2 mt-3" data-content="OR CONNECT WITH">
+                        <div class="text-center">
+                            <button class="btn btn1" data-toggle="tooltip" title=""><i
+                                    class="fa-fw fa-facebook-f fab"></i></button>
+                            <button class="btn btn2" data-toggle="tooltip" title=""><i
+                                    class="fa-fw fa-google fab"></i></button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Menu bar icon sidebar right -->
+    <div class="modal fade" id="sidebarRight" tabindex="-1" aria-labelledby="sidebarRightLabel" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-end modal-dialog-scrollable position-absolute  m-0 p-0">
+            <div class="modal-content">
+                <div class="modal-header border-0 d-flex justify-content-end">
+
+                    <button type="button text-muted" class="close" data-bs-dismiss="modal" aria-label="Close">
+                        <i class="bi bi-x-lg" aria-hidden="true"></i>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <!-- Your sidebar content goes here -->
+                    <div class="sidebar-content ms-4">
+                        <h5 class="modal-title mb-5 ms-3" id="sidebarRightLabel">Varkala</h5>
+                        <ul class="nav flex-column mb-5">
+                            <li class="nav-item active mb-3 ms-3"><a class="pl-0" href="#">Home </a></li>
+                            <li class="nav-item mb-2 ms-3"><a class="pl-0" href="#">Link</a></li>
+                            <li class="nav-item mb-2"><a class="nav-link pl-0 disabled" href="#">Disabled</a></li>
+                            <li class="accordion right-accordion">
+                                <div class="accordion-item">
+                                    <div class="nav-item accordion-header mb-2 ms-3" id="customHeadingOne">
+                                        <a class="accordion-button" type="button" data-bs-toggle="collapse"
+                                            data-bs-target="#customCollapseOne" aria-expanded="true"
+                                            aria-controls="customCollapseOne">Dropdown link</a>
+                                        <div id="customCollapseOne" class="accordion-collapse collapse hide"
+                                            aria-labelledby="customHeadingOne" data-bs-parent="#accordion">
+                                            <ul class="nav flex-column ml-3 accordion-body">
+                                                <li class="nav-item"><a class="nav-link pl-0" href="#">Action</a></li>
+                                                <li class="nav-item"><a class="nav-link pl-0" href="#">Another
+                                                        action</a></li>
+                                                <li class="nav-item"><a class="nav-link pl-0" href="#">Something else
+                                                        here</a></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                        </ul>
+                        <ul class="list-inline mb-4 ms-3">
+                            <li class="list-inline-item me-2"><i class="fab fa-facebook-f"> </i></li>
+                            <li class="list-inline-item me-2"><i class="fab fa-twitter"> </i></li>
+                            <li class="list-inline-item me-2"><i class="bi bi-telephone me-2"></i><span
+                                    style="font-size: .95rem;">020-800-456-747</span>
+                            </li>
+                        </ul>
+                        <p class="text-sm text-muted mb-0 ms-3">Samsa was a travelling salesman - and above it there
+                            hung a picture that he had recently cut out of an illustrated magazine and housed in a
+                            nice, gilded frame.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!--Modal Add to cart -->
+    <div class="modal modal__product" id="myModal">
+        <div class="modal-content">
+            <span class="close" id="closeModalBtn">&times;</span>
+            <div class="modal__product__section">
+                <div class="modal__product__section__cart cart-container">
+
+                </div>
+                <div class="modal__product__section__total total-price">
+
+                </div>
+                <div class="modal__product__section__btn">
+                    <a href="#" class="btn product-btn btn-outline-dark btn-block text-align-center">View cart</a>
+                    <a href="#" class="btn product-btn2 btn-dark btn-block">Checkout</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</body>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
+    crossorigin="anonymous"></script>
+<script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/swiper@11.0.5/swiper-bundle.min.js"></script>
+<script src="./assets/scripts/js/swiper.js"></script>
+<script src="./assets/scripts/js/accordion.js"></script>
+<script src="./assets/scripts/js/navbar.js"></script>
+<script type="module" src="./assets/scripts/js/cart.js"></script>
+<script src="./assets/scripts/js/main.js"></script>
+<script>
+    AOS.init();
+</script>
+
+</html>

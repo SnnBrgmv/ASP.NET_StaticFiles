@@ -1,0 +1,88 @@
+@mixin flexContainer($justify-content: center, $align-items: center, $gap: null) {
+    display: flex;
+    justify-content: $justify-content;
+    align-items: $align-items;
+
+    @if $gap {
+        gap: #{$gap};
+    }
+
+    @else {
+        gap: $gap;
+    }
+}
+
+@mixin linkStyles {
+    text-transform: uppercase;
+    text-decoration: none;
+    color: #212529;
+    letter-spacing: .2rem;
+    font-weight: bold;
+    line-height: 1.6;
+    font-size: .8rem;
+}
+
+@mixin textBlockStyles($fontSize, $fontWeight, $lineHeight, $marginBottom) {
+    font-size: $fontSize;
+    font-weight: $fontWeight;
+    line-height: $lineHeight;
+    margin-bottom: $marginBottom;
+}
+
+@mixin customStyles {
+    position: absolute;
+    top: -4px;
+    left: 12px;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    font-size: .685rem;
+    color: #fff;
+    padding: 10px;
+    background-color: #bcac76;
+}
+
+@mixin background-cover-center() {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+@mixin modal-overlay {
+    display: none;
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+@mixin modal-content {
+    position: fixed;
+    top: 0;
+    right: 0;
+    height: 100%;
+    width: 35%;
+    background-color: white;
+    padding: 20px;
+}
+
+@mixin close-button {
+    color: #aaa;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    font-weight: bold;
+    border: 0;
+    background-color: transparent;
+    cursor: pointer;
+    transition: transform 0.3s ease-in-out;
+
+    &:hover,
+    &:focus {
+        color: black;
+        text-decoration: none;
+        transform: rotate(360deg);
+    }
+}

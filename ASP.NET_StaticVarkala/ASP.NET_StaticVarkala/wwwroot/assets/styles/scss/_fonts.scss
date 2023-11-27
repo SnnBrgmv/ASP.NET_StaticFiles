@@ -1,0 +1,23 @@
+@font-face {
+    font-family: 'vremenagrotesk3';
+    src: url('../../fonts/VremenaGrotesk/VremenaGroteskBold.woff') format('woff'),
+        url('../../fonts/VremenaGrotesk/VremenaGroteskBold.otf') format('otf');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'vremenagrotesk2';
+    src: url('../../fonts/VremenaGrotesk/VremenaGroteskMedium.woff') format('woff'),
+        url('../../fonts/VremenaGrotesk/VremenaGroteskMedium.otf') format('otf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'vremenagrotesk1';
+    src: url('../../fonts/VremenaGrotesk/VremenaGroteskBook.woff') format('woff'),
+        url('../../fonts/VremenaGrotesk/VremenaGroteskBook.otf') format('otf');
+    font-weight: lighter;
+    font-style: normal;
+}

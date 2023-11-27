@@ -1,0 +1,465 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Guaranteed(CodeA)\\Back-End\\(1) 22.11.2023\\ASP.NET_StaticVarkala\\ASP.NET_StaticVarkala\\wwwroot\\about.html",
+      "PackagePath": "staticwebassets\\about.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Guaranteed(CodeA)\\Back-End\\(1) 22.11.2023\\ASP.NET_StaticVarkala\\ASP.NET_StaticVarkala\\wwwroot\\assets\\fonts\\VremenaGrotesk\\VremenaGrotesk.otf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\VremenaGrotesk\\VremenaGrotesk.otf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Guaranteed(CodeA)\\Back-End\\(1) 22.11.2023\\ASP.NET_StaticVarkala\\ASP.NET_StaticVarkala\\wwwroot\\assets\\fonts\\VremenaGrotesk\\VremenaGrotesk.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\VremenaGrotesk\\VremenaGrotesk.woff"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Guaranteed(CodeA)\\Back-End\\(1) 22.11.2023\\ASP.NET_StaticVarkala\\ASP.NET_StaticVarkala\\wwwroot\\assets\\fonts\\VremenaGrotesk\\VremenaGroteskBold.otf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\VremenaGrotesk\\VremenaGroteskBold.otf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Guaranteed(CodeA)\\Back-End\\(1) 22.11.2023\\ASP.NET_StaticVarkala\\ASP.NET_StaticVarkala\\wwwroot\\assets\\fonts\\VremenaGrotesk\\VremenaGroteskBold.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\VremenaGrotesk\\VremenaGroteskBold.woff"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Guaranteed(CodeA)\\Back-End\\(1) 22.11.2023\\ASP.NET_StaticVarkala\\ASP.NET_StaticVarkala\\wwwroot\\assets\\fonts\\VremenaGrotesk\\VremenaGroteskBoldItalic.otf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\VremenaGrotesk\\VremenaGroteskBoldItalic.otf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Guaranteed(CodeA)\\Back-End\\(1) 22.11.2023\\ASP.NET_StaticVarkala\\ASP.NET_StaticVarkala\\wwwroot\\assets\\fonts\\VremenaGrotesk\\VremenaGroteskBoldItalic.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\VremenaGrotesk\\VremenaGroteskBoldItalic.woff"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Guaranteed(CodeA)\\Back-End\\(1) 22.11.2023\\ASP.NET_StaticVarkala\\ASP.NET_StaticVarkala\\wwwroot\\assets\\fonts\\VremenaGrotesk\\VremenaGroteskBook.otf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\VremenaGrotesk\\VremenaGroteskBook.otf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Guaranteed(CodeA)\\Back-End\\(1) 22.11.2023\\ASP.NET_StaticVarkala\\ASP.NET_StaticVarkala\\wwwroot\\assets\\fonts\\VremenaGrotesk\\VremenaGroteskBook.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\VremenaGrotesk\\VremenaGroteskBook.woff"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Guaranteed(CodeA)\\Back-End\\(1) 22.11.2023\\ASP.NET_StaticVarkala\\ASP.NET_StaticVarkala\\wwwroot\\assets\\fonts\\VremenaGrotesk\\VremenaGroteskBookItalic.otf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\VremenaGrotesk\\VremenaGroteskBookItalic.otf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Guaranteed(CodeA)\\Back-End\\(1) 22.11.2023\\ASP.NET_StaticVarkala\\ASP.NET_StaticVarkala\\wwwroot\\assets\\fonts\\VremenaGrotesk\\VremenaGroteskBookItalic.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\VremenaGrotesk\\VremenaGroteskBookItalic.woff"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Guaranteed(CodeA)\\Back-End\\(1) 22.11.2023\\ASP.NET_StaticVarkala\\ASP.NET_StaticVarkala\\wwwroot\\assets\\fonts\\VremenaGrotesk\\VremenaGroteskItalic.otf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\VremenaGrotesk\\VremenaGroteskItalic.otf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Guaranteed(CodeA)\\Back-End\\(1) 22.11.2023\\ASP.NET_StaticVarkala\\ASP.NET_StaticVarkala\\wwwroot\\assets\\fonts\\VremenaGrotesk\\VremenaGroteskItalic.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\VremenaGrotesk\\VremenaGroteskItalic.woff"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Guaranteed(CodeA)\\Back-End\\(1) 22.11.2023\\ASP.NET_StaticVarkala\\ASP.NET_StaticVarkala\\wwwroot\\assets\\fonts\\VremenaGrotesk\\VremenaGroteskMedium.otf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\VremenaGrotesk\\VremenaGroteskMedium.otf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Guaranteed(CodeA)\\Back-End\\(1) 22.11.2023\\ASP.NET_StaticVarkala\\ASP.NET_StaticVarkala\\wwwroot\\assets\\fonts\\VremenaGrotesk\\VremenaGroteskMedium.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\VremenaGrotesk\\VremenaGroteskMedium.woff"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Guaranteed(CodeA)\\Back-End\\(1) 22.11.2023\\ASP.NET_StaticVarkala\\ASP.NET_StaticVarkala\\wwwroot\\assets\\fonts\\VremenaGrotesk\\VremenaGroteskMediumItalic.otf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\VremenaGrotesk\\VremenaGroteskMediumItalic.otf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Guaranteed(CodeA)\\Back-End\\(1) 22.11.2023\\ASP.NET_StaticVarkala\\ASP.NET_StaticVarkala\\wwwroot\\assets\\fonts\\VremenaGrotesk\\VremenaGroteskMediumItalic.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\VremenaGrotesk\\VremenaGroteskMediumItalic.woff"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Guaranteed(CodeA)\\Back-End\\(1) 22.11.2023\\ASP.NET_StaticVarkala\\ASP.NET_StaticVarkala\\wwwroot\\assets\\images\\about\\about1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\about\\about1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Guaranteed(CodeA)\\Back-End\\(1) 22.11.2023\\ASP.NET_StaticVarkala\\ASP.NET_StaticVarkala\\wwwroot\\assets\\images\\about\\about2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\about\\about2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Guaranteed(CodeA)\\Back-End\\(1) 22.11.2023\\ASP.NET_StaticVarkala\\ASP.NET_StaticVarkala\\wwwroot\\assets\\images\\about\\avatar-0.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\about\\avatar-0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Guaranteed(CodeA)\\Back-End\\(1) 22.11.2023\\ASP.NET_StaticVarkala\\ASP.NET_StaticVarkala\\wwwroot\\assets\\images\\about\\avatar-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\about\\avatar-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Guaranteed(CodeA)\\Back-End\\(1) 22.11.2023\\ASP.NET_StaticVarkala\\ASP.NET_StaticVarkala\\wwwroot\\assets\\images\\about\\avatar-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\about\\avatar-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Guaranteed(CodeA)\\Back-End\\(1) 22.11.2023\\ASP.NET_StaticVarkala\\ASP.NET_StaticVarkala\\wwwroot\\assets\\images\\about\\avatar-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\about\\avatar-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Guaranteed(CodeA)\\Back-End\\(1) 22.11.2023\\ASP.NET_StaticVarkala\\ASP.NET_StaticVarkala\\wwwroot\\assets\\images\\about\\avatar-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\about\\avatar-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Guaranteed(CodeA)\\Back-End\\(1) 22.11.2023\\ASP.NET_StaticVarkala\\ASP.NET_StaticVarkala\\wwwroot\\assets\\images\\about\\avatar-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\about\\avatar-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Guaranteed(CodeA)\\Back-End\\(1) 22.11.2023\\ASP.NET_StaticVarkala\\ASP.NET_StaticVarkala\\wwwroot\\assets\\images\\about\\avatar-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\about\\avatar-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Guaranteed(CodeA)\\Back-End\\(1) 22.11.2023\\ASP.NET_StaticVarkala\\ASP.NET_StaticVarkala\\wwwroot\\assets\\images\\about\\avatar-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\about\\avatar-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Guaranteed(CodeA)\\Back-End\\(1) 22.11.2023\\ASP.NET_StaticVarkala\\ASP.NET_StaticVarkala\\wwwroot\\assets\\images\\about\\brand-1.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\about\\brand-1.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Guaranteed(CodeA)\\Back-End\\(1) 22.11.2023\\ASP.NET_StaticVarkala\\ASP.NET_StaticVarkala\\wwwroot\\assets\\images\\about\\brand-2.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\about\\brand-2.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Guaranteed(CodeA)\\Back-End\\(1) 22.11.2023\\ASP.NET_StaticVarkala\\ASP.NET_StaticVarkala\\wwwroot\\assets\\images\\about\\brand-3.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\about\\brand-3.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Guaranteed(CodeA)\\Back-End\\(1) 22.11.2023\\ASP.NET_StaticVarkala\\ASP.NET_StaticVarkala\\wwwroot\\assets\\images\\about\\brand-4.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\about\\brand-4.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Guaranteed(CodeA)\\Back-End\\(1) 22.11.2023\\ASP.NET_StaticVarkala\\ASP.NET_StaticVarkala\\wwwroot\\assets\\images\\about\\brand-5.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\about\\brand-5.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Guaranteed(CodeA)\\Back-End\\(1) 22.11.2023\\ASP.NET_StaticVarkala\\ASP.NET_StaticVarkala\\wwwroot\\assets\\images\\about\\brand-6.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\about\\brand-6.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Guaranteed(CodeA)\\Back-End\\(1) 22.11.2023\\ASP.NET_StaticVarkala\\ASP.NET_StaticVarkala\\wwwroot\\assets\\images\\blog\\blog-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Guaranteed(CodeA)\\Back-End\\(1) 22.11.2023\\ASP.NET_StaticVarkala\\ASP.NET_StaticVarkala\\wwwroot\\assets\\images\\blog\\blog1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Guaranteed(CodeA)\\Back-End\\(1) 22.11.2023\\ASP.NET_StaticVarkala\\ASP.NET_StaticVarkala\\wwwroot\\assets\\images\\blog\\blog2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Guaranteed(CodeA)\\Back-End\\(1) 22.11.2023\\ASP.NET_StaticVarkala\\ASP.NET_StaticVarkala\\wwwroot\\assets\\images\\blog\\blog3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Guaranteed(CodeA)\\Back-End\\(1) 22.11.2023\\ASP.NET_StaticVarkala\\ASP.NET_StaticVarkala\\wwwroot\\assets\\images\\blog\\blog4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Guaranteed(CodeA)\\Back-End\\(1) 22.11.2023\\ASP.NET_StaticVarkala\\ASP.NET_StaticVarkala\\wwwroot\\assets\\images\\blog\\blog5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Guaranteed(CodeA)\\Back-End\\(1) 22.11.2023\\ASP.NET_StaticVarkala\\ASP.NET_StaticVarkala\\wwwroot\\assets\\images\\blog\\blog6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Guaranteed(CodeA)\\Back-End\\(1) 22.11.2023\\ASP.NET_StaticVarkala\\ASP.NET_StaticVarkala\\wwwroot\\assets\\images\\contact\\contact-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\contact\\contact-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Guaranteed(CodeA)\\Back-End\\(1) 22.11.2023\\ASP.NET_StaticVarkala\\ASP.NET_StaticVarkala\\wwwroot\\assets\\images\\contact\\marker.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\contact\\marker.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Guaranteed(CodeA)\\Back-End\\(1) 22.11.2023\\ASP.NET_StaticVarkala\\ASP.NET_StaticVarkala\\wwwroot\\assets\\images\\index\\cart\\book-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\index\\cart\\book-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Guaranteed(CodeA)\\Back-End\\(1) 22.11.2023\\ASP.NET_StaticVarkala\\ASP.NET_StaticVarkala\\wwwroot\\assets\\images\\index\\cart\\book.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\index\\cart\\book.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Guaranteed(CodeA)\\Back-End\\(1) 22.11.2023\\ASP.NET_StaticVarkala\\ASP.NET_StaticVarkala\\wwwroot\\assets\\images\\index\\cart\\box-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\index\\cart\\box-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Guaranteed(CodeA)\\Back-End\\(1) 22.11.2023\\ASP.NET_StaticVarkala\\ASP.NET_StaticVarkala\\wwwroot\\assets\\images\\index\\cart\\box.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\index\\cart\\box.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Guaranteed(CodeA)\\Back-End\\(1) 22.11.2023\\ASP.NET_StaticVarkala\\ASP.NET_StaticVarkala\\wwwroot\\assets\\images\\index\\cart\\box2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\index\\cart\\box2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Guaranteed(CodeA)\\Back-End\\(1) 22.11.2023\\ASP.NET_StaticVarkala\\ASP.NET_StaticVarkala\\wwwroot\\assets\\images\\index\\cart\\chair-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\index\\cart\\chair-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Guaranteed(CodeA)\\Back-End\\(1) 22.11.2023\\ASP.NET_StaticVarkala\\ASP.NET_StaticVarkala\\wwwroot\\assets\\images\\index\\cart\\chair.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\index\\cart\\chair.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Guaranteed(CodeA)\\Back-End\\(1) 22.11.2023\\ASP.NET_StaticVarkala\\ASP.NET_StaticVarkala\\wwwroot\\assets\\images\\index\\cart\\chair2-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\index\\cart\\chair2-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Guaranteed(CodeA)\\Back-End\\(1) 22.11.2023\\ASP.NET_StaticVarkala\\ASP.NET_StaticVarkala\\wwwroot\\assets\\images\\index\\cart\\chair2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\index\\cart\\chair2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Guaranteed(CodeA)\\Back-End\\(1) 22.11.2023\\ASP.NET_StaticVarkala\\ASP.NET_StaticVarkala\\wwwroot\\assets\\images\\index\\cart\\chair3-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\index\\cart\\chair3-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Guaranteed(CodeA)\\Back-End\\(1) 22.11.2023\\ASP.NET_StaticVarkala\\ASP.NET_StaticVarkala\\wwwroot\\assets\\images\\index\\cart\\chair3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\index\\cart\\chair3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Guaranteed(CodeA)\\Back-End\\(1) 22.11.2023\\ASP.NET_StaticVarkala\\ASP.NET_StaticVarkala\\wwwroot\\assets\\images\\index\\cart\\clock-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\index\\cart\\clock-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Guaranteed(CodeA)\\Back-End\\(1) 22.11.2023\\ASP.NET_StaticVarkala\\ASP.NET_StaticVarkala\\wwwroot\\assets\\images\\index\\cart\\clock.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\index\\cart\\clock.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Guaranteed(CodeA)\\Back-End\\(1) 22.11.2023\\ASP.NET_StaticVarkala\\ASP.NET_StaticVarkala\\wwwroot\\assets\\images\\index\\cart\\clock3-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\index\\cart\\clock3-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Guaranteed(CodeA)\\Back-End\\(1) 22.11.2023\\ASP.NET_StaticVarkala\\ASP.NET_StaticVarkala\\wwwroot\\assets\\images\\index\\cart\\clock3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\index\\cart\\clock3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Guaranteed(CodeA)\\Back-End\\(1) 22.11.2023\\ASP.NET_StaticVarkala\\ASP.NET_StaticVarkala\\wwwroot\\assets\\images\\index\\chair-transparent.png",
+      "PackagePath": "staticwebassets\\assets\\images\\index\\chair-transparent.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Guaranteed(CodeA)\\Back-End\\(1) 22.11.2023\\ASP.NET_StaticVarkala\\ASP.NET_StaticVarkala\\wwwroot\\assets\\images\\index\\detail\\detail-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\index\\detail\\detail-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Guaranteed(CodeA)\\Back-End\\(1) 22.11.2023\\ASP.NET_StaticVarkala\\ASP.NET_StaticVarkala\\wwwroot\\assets\\images\\index\\detail\\detail-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\index\\detail\\detail-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Guaranteed(CodeA)\\Back-End\\(1) 22.11.2023\\ASP.NET_StaticVarkala\\ASP.NET_StaticVarkala\\wwwroot\\assets\\images\\index\\detail\\detail-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\index\\detail\\detail-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Guaranteed(CodeA)\\Back-End\\(1) 22.11.2023\\ASP.NET_StaticVarkala\\ASP.NET_StaticVarkala\\wwwroot\\assets\\images\\index\\detail\\detail-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\index\\detail\\detail-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Guaranteed(CodeA)\\Back-End\\(1) 22.11.2023\\ASP.NET_StaticVarkala\\ASP.NET_StaticVarkala\\wwwroot\\assets\\images\\index\\detail\\detail-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\index\\detail\\detail-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Guaranteed(CodeA)\\Back-End\\(1) 22.11.2023\\ASP.NET_StaticVarkala\\ASP.NET_StaticVarkala\\wwwroot\\assets\\images\\index\\popular\\blob-sale.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\index\\popular\\blob-sale.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Guaranteed(CodeA)\\Back-End\\(1) 22.11.2023\\ASP.NET_StaticVarkala\\ASP.NET_StaticVarkala\\wwwroot\\assets\\images\\index\\popular\\book-sq.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\index\\popular\\book-sq.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Guaranteed(CodeA)\\Back-End\\(1) 22.11.2023\\ASP.NET_StaticVarkala\\ASP.NET_StaticVarkala\\wwwroot\\assets\\images\\index\\popular\\box-sq.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\index\\popular\\box-sq.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Guaranteed(CodeA)\\Back-End\\(1) 22.11.2023\\ASP.NET_StaticVarkala\\ASP.NET_StaticVarkala\\wwwroot\\assets\\images\\index\\popular\\chair-2-sq.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\index\\popular\\chair-2-sq.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Guaranteed(CodeA)\\Back-End\\(1) 22.11.2023\\ASP.NET_StaticVarkala\\ASP.NET_StaticVarkala\\wwwroot\\assets\\images\\index\\popular\\chair3-3-sq.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\index\\popular\\chair3-3-sq.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Guaranteed(CodeA)\\Back-End\\(1) 22.11.2023\\ASP.NET_StaticVarkala\\ASP.NET_StaticVarkala\\wwwroot\\assets\\images\\index\\popular\\clock-sq.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\index\\popular\\clock-sq.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Guaranteed(CodeA)\\Back-End\\(1) 22.11.2023\\ASP.NET_StaticVarkala\\ASP.NET_StaticVarkala\\wwwroot\\assets\\images\\index\\popular\\clock2-sq.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\index\\popular\\clock2-sq.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Guaranteed(CodeA)\\Back-End\\(1) 22.11.2023\\ASP.NET_StaticVarkala\\ASP.NET_StaticVarkala\\wwwroot\\assets\\images\\index\\slider\\blob-box.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\index\\slider\\blob-box.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Guaranteed(CodeA)\\Back-End\\(1) 22.11.2023\\ASP.NET_StaticVarkala\\ASP.NET_StaticVarkala\\wwwroot\\assets\\images\\index\\slider\\blob-chair.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\index\\slider\\blob-chair.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Guaranteed(CodeA)\\Back-End\\(1) 22.11.2023\\ASP.NET_StaticVarkala\\ASP.NET_StaticVarkala\\wwwroot\\assets\\images\\index\\slider\\blob-clock.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\index\\slider\\blob-clock.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Guaranteed(CodeA)\\Back-End\\(1) 22.11.2023\\ASP.NET_StaticVarkala\\ASP.NET_StaticVarkala\\wwwroot\\assets\\images\\index\\slider\\blob.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\index\\slider\\blob.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Guaranteed(CodeA)\\Back-End\\(1) 22.11.2023\\ASP.NET_StaticVarkala\\ASP.NET_StaticVarkala\\wwwroot\\assets\\images\\index\\slider\\box-transparent.png",
+      "PackagePath": "staticwebassets\\assets\\images\\index\\slider\\box-transparent.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Guaranteed(CodeA)\\Back-End\\(1) 22.11.2023\\ASP.NET_StaticVarkala\\ASP.NET_StaticVarkala\\wwwroot\\assets\\images\\index\\slider\\chair-transparent.png",
+      "PackagePath": "staticwebassets\\assets\\images\\index\\slider\\chair-transparent.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Guaranteed(CodeA)\\Back-End\\(1) 22.11.2023\\ASP.NET_StaticVarkala\\ASP.NET_StaticVarkala\\wwwroot\\assets\\images\\index\\slider\\clock-transparent.png",
+      "PackagePath": "staticwebassets\\assets\\images\\index\\slider\\clock-transparent.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Guaranteed(CodeA)\\Back-End\\(1) 22.11.2023\\ASP.NET_StaticVarkala\\ASP.NET_StaticVarkala\\wwwroot\\assets\\images\\index\\summer-blob.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\index\\summer-blob.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Guaranteed(CodeA)\\Back-End\\(1) 22.11.2023\\ASP.NET_StaticVarkala\\ASP.NET_StaticVarkala\\wwwroot\\assets\\images\\navbar\\kyle-loftus.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\navbar\\kyle-loftus.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Guaranteed(CodeA)\\Back-End\\(1) 22.11.2023\\ASP.NET_StaticVarkala\\ASP.NET_StaticVarkala\\wwwroot\\assets\\scripts\\js\\accordion.js",
+      "PackagePath": "staticwebassets\\assets\\scripts\\js\\accordion.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Guaranteed(CodeA)\\Back-End\\(1) 22.11.2023\\ASP.NET_StaticVarkala\\ASP.NET_StaticVarkala\\wwwroot\\assets\\scripts\\js\\cart.js",
+      "PackagePath": "staticwebassets\\assets\\scripts\\js\\cart.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Guaranteed(CodeA)\\Back-End\\(1) 22.11.2023\\ASP.NET_StaticVarkala\\ASP.NET_StaticVarkala\\wwwroot\\assets\\scripts\\js\\countdown.js",
+      "PackagePath": "staticwebassets\\assets\\scripts\\js\\countdown.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Guaranteed(CodeA)\\Back-End\\(1) 22.11.2023\\ASP.NET_StaticVarkala\\ASP.NET_StaticVarkala\\wwwroot\\assets\\scripts\\js\\data.js",
+      "PackagePath": "staticwebassets\\assets\\scripts\\js\\data.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Guaranteed(CodeA)\\Back-End\\(1) 22.11.2023\\ASP.NET_StaticVarkala\\ASP.NET_StaticVarkala\\wwwroot\\assets\\scripts\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets\\scripts\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Guaranteed(CodeA)\\Back-End\\(1) 22.11.2023\\ASP.NET_StaticVarkala\\ASP.NET_StaticVarkala\\wwwroot\\assets\\scripts\\js\\map.js",
+      "PackagePath": "staticwebassets\\assets\\scripts\\js\\map.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Guaranteed(CodeA)\\Back-End\\(1) 22.11.2023\\ASP.NET_StaticVarkala\\ASP.NET_StaticVarkala\\wwwroot\\assets\\scripts\\js\\navbar.js",
+      "PackagePath": "staticwebassets\\assets\\scripts\\js\\navbar.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Guaranteed(CodeA)\\Back-End\\(1) 22.11.2023\\ASP.NET_StaticVarkala\\ASP.NET_StaticVarkala\\wwwroot\\assets\\scripts\\js\\rellax.min.js",
+      "PackagePath": "staticwebassets\\assets\\scripts\\js\\rellax.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Guaranteed(CodeA)\\Back-End\\(1) 22.11.2023\\ASP.NET_StaticVarkala\\ASP.NET_StaticVarkala\\wwwroot\\assets\\scripts\\js\\swiper.js",
+      "PackagePath": "staticwebassets\\assets\\scripts\\js\\swiper.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Guaranteed(CodeA)\\Back-End\\(1) 22.11.2023\\ASP.NET_StaticVarkala\\ASP.NET_StaticVarkala\\wwwroot\\assets\\styles\\css\\about.css",
+      "PackagePath": "staticwebassets\\assets\\styles\\css\\about.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Guaranteed(CodeA)\\Back-End\\(1) 22.11.2023\\ASP.NET_StaticVarkala\\ASP.NET_StaticVarkala\\wwwroot\\assets\\styles\\css\\about.css.map",
+      "PackagePath": "staticwebassets\\assets\\styles\\css\\about.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Guaranteed(CodeA)\\Back-End\\(1) 22.11.2023\\ASP.NET_StaticVarkala\\ASP.NET_StaticVarkala\\wwwroot\\assets\\styles\\css\\blog.css",
+      "PackagePath": "staticwebassets\\assets\\styles\\css\\blog.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Guaranteed(CodeA)\\Back-End\\(1) 22.11.2023\\ASP.NET_StaticVarkala\\ASP.NET_StaticVarkala\\wwwroot\\assets\\styles\\css\\blog.css.map",
+      "PackagePath": "staticwebassets\\assets\\styles\\css\\blog.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Guaranteed(CodeA)\\Back-End\\(1) 22.11.2023\\ASP.NET_StaticVarkala\\ASP.NET_StaticVarkala\\wwwroot\\assets\\styles\\css\\contact.css",
+      "PackagePath": "staticwebassets\\assets\\styles\\css\\contact.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Guaranteed(CodeA)\\Back-End\\(1) 22.11.2023\\ASP.NET_StaticVarkala\\ASP.NET_StaticVarkala\\wwwroot\\assets\\styles\\css\\contact.css.map",
+      "PackagePath": "staticwebassets\\assets\\styles\\css\\contact.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Guaranteed(CodeA)\\Back-End\\(1) 22.11.2023\\ASP.NET_StaticVarkala\\ASP.NET_StaticVarkala\\wwwroot\\assets\\styles\\css\\main.css",
+      "PackagePath": "staticwebassets\\assets\\styles\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Guaranteed(CodeA)\\Back-End\\(1) 22.11.2023\\ASP.NET_StaticVarkala\\ASP.NET_StaticVarkala\\wwwroot\\assets\\styles\\css\\main.css.map",
+      "PackagePath": "staticwebassets\\assets\\styles\\css\\main.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Guaranteed(CodeA)\\Back-End\\(1) 22.11.2023\\ASP.NET_StaticVarkala\\ASP.NET_StaticVarkala\\wwwroot\\assets\\styles\\scss\\_fonts.scss",
+      "PackagePath": "staticwebassets\\assets\\styles\\scss\\_fonts.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Guaranteed(CodeA)\\Back-End\\(1) 22.11.2023\\ASP.NET_StaticVarkala\\ASP.NET_StaticVarkala\\wwwroot\\assets\\styles\\scss\\_footer.scss",
+      "PackagePath": "staticwebassets\\assets\\styles\\scss\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Guaranteed(CodeA)\\Back-End\\(1) 22.11.2023\\ASP.NET_StaticVarkala\\ASP.NET_StaticVarkala\\wwwroot\\assets\\styles\\scss\\_header.scss",
+      "PackagePath": "staticwebassets\\assets\\styles\\scss\\_header.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Guaranteed(CodeA)\\Back-End\\(1) 22.11.2023\\ASP.NET_StaticVarkala\\ASP.NET_StaticVarkala\\wwwroot\\assets\\styles\\scss\\_index.scss",
+      "PackagePath": "staticwebassets\\assets\\styles\\scss\\_index.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Guaranteed(CodeA)\\Back-End\\(1) 22.11.2023\\ASP.NET_StaticVarkala\\ASP.NET_StaticVarkala\\wwwroot\\assets\\styles\\scss\\_mixin.scss",
+      "PackagePath": "staticwebassets\\assets\\styles\\scss\\_mixin.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Guaranteed(CodeA)\\Back-End\\(1) 22.11.2023\\ASP.NET_StaticVarkala\\ASP.NET_StaticVarkala\\wwwroot\\assets\\styles\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\assets\\styles\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Guaranteed(CodeA)\\Back-End\\(1) 22.11.2023\\ASP.NET_StaticVarkala\\ASP.NET_StaticVarkala\\wwwroot\\assets\\styles\\scss\\_reset.scss",
+      "PackagePath": "staticwebassets\\assets\\styles\\scss\\_reset.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Guaranteed(CodeA)\\Back-End\\(1) 22.11.2023\\ASP.NET_StaticVarkala\\ASP.NET_StaticVarkala\\wwwroot\\assets\\styles\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\assets\\styles\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Guaranteed(CodeA)\\Back-End\\(1) 22.11.2023\\ASP.NET_StaticVarkala\\ASP.NET_StaticVarkala\\wwwroot\\assets\\styles\\scss\\about.scss",
+      "PackagePath": "staticwebassets\\assets\\styles\\scss\\about.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Guaranteed(CodeA)\\Back-End\\(1) 22.11.2023\\ASP.NET_StaticVarkala\\ASP.NET_StaticVarkala\\wwwroot\\assets\\styles\\scss\\blog.scss",
+      "PackagePath": "staticwebassets\\assets\\styles\\scss\\blog.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Guaranteed(CodeA)\\Back-End\\(1) 22.11.2023\\ASP.NET_StaticVarkala\\ASP.NET_StaticVarkala\\wwwroot\\assets\\styles\\scss\\contact.scss",
+      "PackagePath": "staticwebassets\\assets\\styles\\scss\\contact.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Guaranteed(CodeA)\\Back-End\\(1) 22.11.2023\\ASP.NET_StaticVarkala\\ASP.NET_StaticVarkala\\wwwroot\\assets\\styles\\scss\\main.scss",
+      "PackagePath": "staticwebassets\\assets\\styles\\scss\\main.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Guaranteed(CodeA)\\Back-End\\(1) 22.11.2023\\ASP.NET_StaticVarkala\\ASP.NET_StaticVarkala\\wwwroot\\blog.html",
+      "PackagePath": "staticwebassets\\blog.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Guaranteed(CodeA)\\Back-End\\(1) 22.11.2023\\ASP.NET_StaticVarkala\\ASP.NET_StaticVarkala\\wwwroot\\contact.html",
+      "PackagePath": "staticwebassets\\contact.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Guaranteed(CodeA)\\Back-End\\(1) 22.11.2023\\ASP.NET_StaticVarkala\\ASP.NET_StaticVarkala\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.ASP.NET_StaticVarkala.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.ASP.NET_StaticVarkala.props",
+      "PackagePath": "build\\ASP.NET_StaticVarkala.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.ASP.NET_StaticVarkala.props",
+      "PackagePath": "buildMultiTargeting\\ASP.NET_StaticVarkala.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.ASP.NET_StaticVarkala.props",
+      "PackagePath": "buildTransitive\\ASP.NET_StaticVarkala.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
